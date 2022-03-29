@@ -1,0 +1,23 @@
+{
+  "name": "11ty-plugin-spy",
+  "description": "New plugin, who dis?",
+  "version": "1.0.0",
+  "author": "Peter deHaan <peter@deseloper.com>",
+  "bugs": {
+    "url": "https://github.com/pdehaan/11ty-plugin-spy/issues"
+  },
+  "homepage": "https://github.com/pdehaan/11ty-plugin-spy#readme",
+  "keywords": [],
+  "license": "MPL-2.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/11ty-plugin-spy.git"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "devDependencies": {
+    "@11ty/eleventy-plugin-rss": "^1.1.2"
+  }
+}
